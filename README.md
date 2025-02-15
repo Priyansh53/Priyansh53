@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm PRIYANSH NAKRANI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img src="https://camo.githubusercontent.com/e6ebed0f301f416dccd5391bb5ecb77f2204d8cbd64a62f2a2098475e1876678/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966" alt="Devloper Theme Image" height="200" width="400"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/priyansh nakrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyansh nakrani" height="30" width="40" /></a>
